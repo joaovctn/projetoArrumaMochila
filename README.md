@@ -1,2 +1,1 @@
-# projetoArrumaMochila
-Projeto criado no curso de JavaScrip.
+# alura-armazenando-na-web
